@@ -2,8 +2,6 @@
 
 A real-time facial emotion recognition system that detects emotions from webcam feed and overlays corresponding Clash Royale emotes.
 
-![alt text](<WhatsApp Image 2025-10-25 at 11.45.07_b166bd79.jpg>)
-
 ## Features
 
 * Real-time emotion detection from webcam
@@ -86,8 +84,6 @@ CONFIDENCE_THRESHOLD = 0.3     # Minimum detection confidence
 * OpenCV 4.8.1
 * FER 22.5.1
 * NumPy 1.24.3
-* Pillow 10.0.1
-* MoviePy
 
 ## Acknowledgments
 
